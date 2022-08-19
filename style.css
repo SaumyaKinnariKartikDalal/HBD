@@ -6,6 +6,8 @@
 }
 #myCanvas
 {
-   
+   background-image: url(BirthdayImage.jpg);
+   background-position:center;
+    background-size:cover;
 }
 
